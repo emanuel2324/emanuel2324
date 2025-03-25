@@ -22,7 +22,6 @@ Estou sempre buscando aprender novas tecnologias e aplicá-las em projetos prát
 🏆 Curso de Web Designer – MSD Educação Profissional
 
 ### 📫 Como me encontrar
-![Contato](https://via.placeholder.com/600x100?text=Entre+em+contato)
 
 - **GitHub**: [github.com/emanuel2324](https://github.com/emanuel2324)  
 - **LinkedIn**: [linkedin.com/in/emanuel-dutra-30590a25a](https://www.linkedin.com/in/emanuel-dutra-30590a25a/)  
